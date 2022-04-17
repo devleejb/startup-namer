@@ -1,16 +1,4 @@
 # startup_namer
+본 Repository는 스타트업의 이름을 추천해주는 애플리케이션을 담고 있으며, 이는 [Flutter 시작하기](https://flutter-ko.dev/docs/get-started/install) 예제 입니다.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Notion 정리](https://distinct-bulb-c95.notion.site/Flutter-Getting-Started-15ec5400f1804c84b4dbf436867e97b9)
